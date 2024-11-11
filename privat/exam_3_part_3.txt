@@ -1,0 +1,3 @@
+https://github.com/netology-code/git-2-homeworks-issues/issues/7024
+https://github.com/netology-code/git-2-homeworks-pr/pull/6998
+https://gushchinvadim.github.io/about_me/
